@@ -1,0 +1,71 @@
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-image: url('../images/pattern.png');
+    background-repeat: repeat;
+  }
+  .bg-primary{
+    background-color: #a593c2 !important;
+  }
+  .bi-cart{
+    color: aliceblue;
+  }
+  .jumbotron-other{
+    background: url("../images/carousel3.jpg") no-repeat fixed;
+  }
+  .jumbotron-detail-apple-pie{
+    background: url("../images/products/applepie.jpg") no-repeat fixed;
+  }
+  .jumbotron-detail-cranberry-pie{
+    background: url("../images/products/c1.jpg") no-repeat fixed;
+  }
+  .jumbotron-detail-pumpkin-pie{
+    background: url("../images/products/pumpkinpiesmall.jpg") no-repeat fixed;
+  }
+  .jumbotron-detail-cheesecake{
+    background: url("../images/products/cheesecake.jpg") no-repeat fixed;
+  }
+  .jumbotron-detail-blueberry{
+    background: url("../images/products/blueberry.jpg") no-repeat fixed;
+  }
+  .jumbotron-detail-strwaberry{
+    background: url("../images/products/STRAWBERRY_PIE.jpg") no-repeat fixed;
+  }
+  .jumbotron-detail-peach-pie{
+    background: url("../images/products/PEACHPIE-articleLarge.jpg") no-repeat fixed;
+  }
+  .jumbotron-detail-Rhubarb-pie{
+    background: url("../images/products/rhubarb-pie-1.jpg") no-repeat fixed;
+  }
+  .jumbotron{
+    height: 40vh;
+    background-size:cover ;
+  }
+  .carousel{
+    margin-bottom:4rem;
+  }
+  .carousel-caption{
+    bottom:3rem;
+    z-index:10;
+  }
+  .carousel-item{
+    height: 32rem;
+    max-width: 100vw;
+    background-size:cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+  .welcome-carousel-image1{
+    box-shadow:inset 0 0 0 100vw rgba(0,0,0,0.3);
+    background-image: url('../images/carousel1.jpg');
+  }
+
+  .welcome-carousel-image2{
+    box-shadow:inset 0 0 0 100vw rgba(0,0,0,0.3);
+    background-image: url('../images/carousel2.jpg');
+  }
+
+  .welcome-carousel-image3{
+    box-shadow:inset 0 0 0 100vw rgba(0,0,0,0.3);
+    background-image: url('../images/carousel3.jpg');
+  } 
